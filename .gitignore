@@ -1,1 +1,9 @@
 *.exe
+
+# .NET build artifacts
+bin/
+obj/
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json

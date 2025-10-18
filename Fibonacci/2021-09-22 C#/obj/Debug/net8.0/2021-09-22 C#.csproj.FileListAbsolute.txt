@@ -1,0 +1,15 @@
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/2021-09-22 C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/2021-09-22 C#.AssemblyInfoInputs.cache
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/2021-09-22 C#.AssemblyInfo.cs
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/2021-09-22 C#.csproj.CoreCompileInputs.cache
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/2021-09-22 C#.sourcelink.json
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/bin/Debug/net8.0/2021-09-22 C#
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/bin/Debug/net8.0/2021-09-22 C#.deps.json
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/bin/Debug/net8.0/2021-09-22 C#.runtimeconfig.json
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/bin/Debug/net8.0/2021-09-22 C#.dll
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/bin/Debug/net8.0/2021-09-22 C#.pdb
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/2021-09-22 C#.dll
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/refint/2021-09-22 C#.dll
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/2021-09-22 C#.pdb
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/2021-09-22 C#.genruntimeconfig.cache
+/home/runner/work/ProgrammingPractice/ProgrammingPractice/Fibonacci/2021-09-22 C#/obj/Debug/net8.0/ref/2021-09-22 C#.dll
